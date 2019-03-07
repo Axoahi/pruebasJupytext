@@ -50,8 +50,11 @@ reg.predict([[2,9,6]])
 
 reg.predict([[12,10,10]])
 
+
 print ("probando commit")
 
 print ("y fallos del merge")
+
+print("Hello world")
 
 
